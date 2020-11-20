@@ -64,9 +64,6 @@ public class Localizer {
         }catch (Exception e ){
             e.printStackTrace();
         }
-
-
-
         return errMsg;
     }
 
